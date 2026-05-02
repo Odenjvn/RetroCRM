@@ -3,9 +3,10 @@ A retro CRM app focused on storing information of clients
 
 ![image alt](https://github.com/Odenjvn/RetroCRM/blob/6bd952a63efbaa7c3fa1a7d3b8505935bfe84f03/Screenshot%202026-05-02%20115851.jpg)
 # Installation
-[Click here to download the .rar](https://drive.google.com/file/d/1SeXeCzRZQpoG26DRLEejsgTPKsFHEE4Y/view)
+[Click here to download](https://drive.google.com/file/d/1SeXeCzRZQpoG26DRLEejsgTPKsFHEE4Y/view)
 
 Simply download the .rar, extract into a standard folder and run the .exe!
+Uploaded on google drive because the file is too big (105mb) to be uploaded directly in this repository.
 # Functionality
 - Sort client list alphabetically or by custom criteria.
 - Export all the information stored. Upon exporting, a folder will be created in the main directory with the .txt inside it.
