@@ -11,7 +11,7 @@ Uploaded on google drive because the file is too big (105mb) to be uploaded dire
 - Sort client list alphabetically or by custom criteria.
 - Export all the information stored. Upon exporting, a folder will be created in the main directory with the .txt inside it.
 - Add images to help identify each client better.
-- You can click, hold and drag a client to manually organize the Client Database to your liking, similar to organizing songs in a playlist.
+- You can hold and drag a client to manually organize the Client Database to your liking, similar to organizing songs in a playlist.
 - Hide any unnecessary parameter in the Client Database.
 # Postscript
 Since this was made for personal use, the placeholder text for ID and Postal Code are following Brazil's format.
