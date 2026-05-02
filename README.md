@@ -10,3 +10,5 @@ Simply download the rar, extract into a standard folder and run the .exe!
 - Add images to help identify each client better.
 - You can click, hold and drag a client to manually organize the Client Database to your liking, similar to organizing songs in a playlist.
 - Hide any unnecessary parameter in the Client Database.
+# Postscript
+Since this was made for personal use, the placeholder text for ID and Postal Code are following Brazil's format.
