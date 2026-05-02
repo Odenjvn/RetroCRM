@@ -4,6 +4,7 @@ A retro CRM app focused on storing information of clients
 ![image alt](https://github.com/Odenjvn/RetroCRM/blob/6bd952a63efbaa7c3fa1a7d3b8505935bfe84f03/Screenshot%202026-05-02%20115851.jpg)
 # Installation
 [Click here to download the .rar](https://drive.google.com/file/d/1SeXeCzRZQpoG26DRLEejsgTPKsFHEE4Y/view)
+
 Simply download the .rar, extract into a standard folder and run the .exe!
 # Functionality
 - Sort client list alphabetically or by custom criteria.
