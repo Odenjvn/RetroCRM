@@ -5,8 +5,8 @@ A retro CRM app focused on storing information of clients
 # Installation
 Simply download the rar, extract into a standard folder and run the .exe!
 # Functionality
-\(\bullet \) Sort client list alphabetically or by custom criteria.
-\(\bullet \) Export all the information stored. Upon exporting, a folder will be created in the main directory with the .txt inside it.
-\(\bullet \) Add images to help identify each client better.
-\(\bullet \) You can click, hold and drag a client to manually organize the Client Database to your liking, similar to organizing songs in a playlist.
-\(\bullet \) Hide any unnecessary parameter in the Client Database.
+\(\bullet \)Sort client list alphabetically or by custom criteria.
+\(\bullet \)Export all the information stored. Upon exporting, a folder will be created in the main directory with the .txt inside it.
+\(\bullet \)Add images to help identify each client better.
+\(\bullet \)You can click, hold and drag a client to manually organize the Client Database to your liking, similar to organizing songs in a playlist.
+\(\bullet \)Hide any unnecessary parameter in the Client Database.
