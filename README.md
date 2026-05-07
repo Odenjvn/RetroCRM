@@ -2,6 +2,12 @@
 A free, easy to use retro CRM app focused on storing client information and managing internal relationships
 
 ![image alt](ClientTab.jpg)
+
+![image alt](ClientDatabase.jpg)
+
+![image alt](Calendar.jpg)
+
+![image alt](Relationships.jpg)
 # Installation
 [Download for Windows](https://github.com/Odenjvn/RetroCRM/releases/download/Installer/RetroCRMSetup1.0.0.exe)
 
